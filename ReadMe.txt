@@ -1,7 +1,7 @@
 
 Thesis Manuscript:
 
-Drafts: Different versions of thesis drafts.
+Drafts: Different versions of the thesis drafts.
 Final Version: The final, completed version of your thesis.
 
 Research Materials:
